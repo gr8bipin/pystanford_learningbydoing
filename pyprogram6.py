@@ -1,4 +1,4 @@
-# Use of constants
+## Use of CONSTANTS
 
 WIZARD = 'Karel'
 NUMBER_OF_FRUIT = 6174
