@@ -1,3 +1,5 @@
+from stanfordkarel import *
+
 def main():
     for i in range(4):
         put_beeper()
@@ -6,3 +8,5 @@ def main():
 
 if '__name__' == '__main__':
     main()
+
+    
